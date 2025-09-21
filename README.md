@@ -9,9 +9,9 @@ GET https://api.akng.io.vn/graph/v19.0/100025113282190/feed?fields=from%2Cid%2Cc
 ```
 
 # FREE Trial when contact to me :
-- Telegram : https://t.me/anhkiet9052
-- Facebook : https://fb.com/anhkiet9052
-- Messenger : https://m.me/anhkiet9052
+- Telegram : https://t.me/minhquan2006
+- Facebook : https://fb.com/minhquan11a4
+- Messenger : https://m.me/minhquan11a4
 
 ### Original URL of Graph Facebook API
 
